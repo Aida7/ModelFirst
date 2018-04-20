@@ -1,0 +1,13 @@
+c:\users\садыковаа\source\repos\ModelFirst1\ModelFirst1\bin\Debug\ModelFirst1.exe.config
+c:\users\садыковаа\source\repos\ModelFirst1\ModelFirst1\bin\Debug\ModelFirst1.exe
+c:\users\садыковаа\source\repos\ModelFirst1\ModelFirst1\bin\Debug\ModelFirst1.pdb
+c:\users\садыковаа\source\repos\ModelFirst1\ModelFirst1\bin\Debug\EntityFramework.dll
+c:\users\садыковаа\source\repos\ModelFirst1\ModelFirst1\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\садыковаа\source\repos\ModelFirst1\ModelFirst1\bin\Debug\EntityFramework.xml
+c:\users\садыковаа\source\repos\ModelFirst1\ModelFirst1\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\садыковаа\source\repos\ModelFirst1\ModelFirst1\bin\Debug\ru\EntityFramework.resources.dll
+c:\users\садыковаа\source\repos\ModelFirst1\ModelFirst1\obj\Debug\ModelFirst1.csprojResolveAssemblyReference.cache
+c:\users\садыковаа\source\repos\ModelFirst1\ModelFirst1\obj\Debug\ModelFirst1.csproj.CoreCompileInputs.cache
+c:\users\садыковаа\source\repos\ModelFirst1\ModelFirst1\obj\Debug\ModelFirst1.csproj.CopyComplete
+c:\users\садыковаа\source\repos\ModelFirst1\ModelFirst1\obj\Debug\ModelFirst1.exe
+c:\users\садыковаа\source\repos\ModelFirst1\ModelFirst1\obj\Debug\ModelFirst1.pdb
